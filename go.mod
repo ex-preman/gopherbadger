@@ -1,4 +1,4 @@
-module github.com/jpoles1/gopherbadger
+module github.com/ex-preman/gopherbadger/v3
 
 go 1.15
 

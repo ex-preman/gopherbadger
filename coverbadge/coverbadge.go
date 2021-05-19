@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/jpoles1/gopherbadger/logging"
+	"github.com/ex-preman/gopherbadger/v3/logging"
 )
 
 type Badge struct {
